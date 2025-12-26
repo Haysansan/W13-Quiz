@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // import 'ui/groceries/grocery_list.dart';
-import 'ui/groceries/tab/grocery_tab.dart';
+import 'ui/groceries/tab/grocery_tab.dart'; ///Using grocery tab instead of list ui
 
 
 void main() {
